@@ -1,10 +1,11 @@
 
 $Events
-	Mom and Eunice - W hotel
-	Eunice and Woody
+	Mom and Eunice - W hotel 1/10
+	Eunice and Woody 
 	Bukchon
 	Eunice, junsang and his gf, me
-	Nice night out!
+	night out
+	mmca
 
 	Hyunkyu
 	Uncle
@@ -13,15 +14,24 @@ $Events
 
 $issues
 	Wifi additional router
-	Classes next semester
+	Classes:
+		Abstract Algebra (SNC)
+		OS & OS lab
+		MUSC1200 (SNC)
 	Brown hackathon
+	Service
 
 $topics
-	iOS dev
-	java-multithreading
-	js-Backbone
+	iOSdev:
+		download xcode
+		the tutorial pdf
+		Stanford 10-week lectures
+	Belmont:
+		java-multithreading
+		js-Backbone
+		Cracking the coding interview
 	Structure and interpretation of Computer Programs
-	Cracking the coding interview
+	Eunice's thesis
 
 $interests
 	Gravity
